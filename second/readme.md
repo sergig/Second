@@ -17,3 +17,4 @@ second  line
 17 line
 18 line
 19 line from git bash
+20 line from git CMD
