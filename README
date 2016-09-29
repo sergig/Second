@@ -1,3 +1,7 @@
 My project
 Line created from Git Hub for testing Git Pull
+<<<<<<< HEAD
 proves 29/09/2016
+=======
+Line 2 created from Git Hub for testing Git Pull
+>>>>>>> 3f4aa3af086741c46d37da031927e00d073c6356
