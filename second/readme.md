@@ -18,3 +18,4 @@ second  line
 18 line
 19 line from git bash
 20 line from git CMD
+Push from smartgit
